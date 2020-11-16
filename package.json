@@ -4,6 +4,7 @@
   "description": "Built using Javascript, HTML, CSS",
   "main": "index.js",
   "dependencies": {
+    "babel": "^6.23.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.12.0",
     "react": "^17.0.1",
